@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Abel, a Software Developer from 🇨🇺 located at 🇨🇱! Currently working as Frontend Engineer at @cornershop 🍅
+
 <!--
 **abelfernandezh/abelfernandezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<a href="https://status.nmoo.dev/now-playing?open">
-    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
-</a>
