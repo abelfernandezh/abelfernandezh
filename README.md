@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Abel, a Software Developer from 🇨🇺 located at 🇨🇱! Currently working as Frontend Engineer at @cornershop 🍅
+I'm Abel, a Software Developer from 🇨🇺 located at 🇨🇱! Currently working as Frontend Engineer at [Cornershop](https://cornershopapp.com/) 🍅
 
 <!--
 **abelfernandezh/abelfernandezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
